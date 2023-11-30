@@ -24,7 +24,7 @@
   
 <h3 align="center">Student (Final Year) at Velammal Engineering College • Electronics PD at Steam troops • Ex-Python API Developer Intern at Deep Algorithms • Ex-Embedded Sys. PD Intern at Betamonks Technology Factory •</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkisan&label=Profile%20views&color=0e75b6&style=flat" alt="rajkisan" /> </p>
+
 
 - 👨‍💻 All of my projects are available at [Linkedin Projects](https://www.linkedin.com/in/raj-kisan-s/details/projects/)
 
@@ -34,7 +34,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raj-kisan-s/" target="blank"><img align="center" src="https://i.ibb.co/QvGsT53/58e91afdeb97430e81906504.png" alt="https://www.linkedin.com/in/raj-kisan-s/" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/raj-kisan-s/" target="blank"><img align="center" src="https://i.ibb.co/QvGsT53/58e91afdeb97430e81906504.png" alt="https://www.linkedin.com/in/raj-kisan-s/" height="40" width="40" /></a>  
+ &nbsp; &nbsp; &nbsp;<a align="left"> <img src="https://komarev.com/ghpvc/?username=rajkisan&label=Profile%20views&color=0e75b6&style=flat" alt="rajkisan" /> </a>
 
 </p>
 
