@@ -1,4 +1,27 @@
 <h1 align="center">Hi 👋, I'm Raj Kisan Sathiyan</h1>
+<!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+
+<!--🖼️RICK-->
+<p align="center">
+<img src="https://i.pinimg.com/originals/e5/1d/4f/e51d4f7b1f0ca6e2383c47c628247196.jpg" height="240" width="370">
+
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!--🖼️ILOVEOPENSOURCE-->
+<img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
+
+
+
+
+
+
+<!--📏LINE-->
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
 <h3 align="center">Student (Final Year) at Velammal Engineering College • Electronics PD at Steam troops • Ex-Python API Developer Intern at Deep Algorithms • Ex-Embedded Sys. PD Intern at Betamonks Technology Factory •</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkisan&label=Profile%20views&color=0e75b6&style=flat" alt="rajkisan" /> </p>
