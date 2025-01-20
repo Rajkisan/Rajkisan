@@ -22,7 +22,7 @@
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   
-<h3 align="center">Student (Final Year) at Velammal Engineering College • Electronics PD at Steam troops • Ex-Python API Developer Intern at Deep Algorithms • Ex-Embedded Sys. PD Intern at Betamonks Technology Factory •</h3>
+<h3 align="center">Technical Project Lead at Scrapify Ecotech • Ex-Electronics PD at Steam troops • Ex-Python API Developer Intern at Deep Algorithms • Ex-Embedded Sys. PD Intern at Betamonks Technology Factory •</h3>
 
 
 
